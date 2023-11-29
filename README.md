@@ -2,7 +2,7 @@
 
 ## Time Complexity:
 - Perulangan setiap karakter dalam string input memerlukan time complexity O(n), di mana n adalah panjang string.
-- Operasi push dan pop pada tumpukan (stack) memiliki time complexity konstan O(1).
+- Operasi push dan pop pada stack memiliki time complexity konstan O(1).
 - Oleh karena itu, time complexity keseluruhan adalah O(n).
 
 ## Space Complexity:
